@@ -1,5 +1,7 @@
 1. Buat database dengan nama "advanced"
 2. Import database "advanced" di folder "siskeu/database"
+3. ketik di cmd sesuai root aplikasi
+   composer update
 
 Akses Menu User
 http://localhost/siskeu/frontend/web/index.php
