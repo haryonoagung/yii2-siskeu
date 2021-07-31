@@ -2,6 +2,7 @@
 2. Import database "advanced" di folder "siskeu/database"
 3. ketik di cmd sesuai root aplikasi
    composer update
+4. ketik php init -> pilih dev
 
 Akses Menu User
 http://localhost/siskeu/frontend/web/index.php
